@@ -61,6 +61,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Finance](./week9/finance)
   * [Final Project](https://gitlab.com/potential-garbage/cs50/image-spell)
 
-## Cetificate
+## Certificate
 ![Certificate](./CS50x.png)
 
