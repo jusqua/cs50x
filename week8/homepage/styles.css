@@ -1,0 +1,39 @@
+/* Header config */
+.jumbotron
+{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+/* Bootstrap container margin addition*/
+.container
+{
+    margin: 2rem;
+}
+
+/* Section like trivia lab */
+.section
+{
+    padding: 2rem;
+}
+
+.section:hover
+{
+    background-color: #f0f0f0;
+    transition: background-color 0.001s ease-in-out;
+}
+
+/* Bootstrap image fill addition */
+.img-fluid
+{
+    margin: 2px;
+    width: 100%;
+}
+
+/* Changes font size of the listed itens */
+li
+{
+    font-size: 24px;
+}

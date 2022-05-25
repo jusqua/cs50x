@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: all sorted files have a pattern of ~0m0.013s per sorting, and the others are too slow to sort
+
+sort2 uses: Merge Sort
+
+How do you know?: fastest sort in all files (random, reversed and sorted), comparing with sort3
+
+sort3 uses: Selection Sort
+
+How do you know?: by elimination, has an average "speed" of execution compared to the other algorithms
