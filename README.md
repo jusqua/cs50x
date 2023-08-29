@@ -59,7 +59,7 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * Week 9
     * [Birthdays](./week9/birthdays)
     * [Finance](./week9/finance)
-  * [Final Project](https://gitlab.com/potential-garbage/cs50/image-spell)
+  * [Final Project](https://gitlab.com/jusqua/image-spell)
 
 ## Certificate
 ![Certificate](./CS50x.png)
